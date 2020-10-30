@@ -1,6 +1,6 @@
 ## NXT Tether Login Test
 
-Current site target - [https://nxt-stage.alogent.com/app](https://test-digital.alogent.com/app)
+Current site target - [https://nxt-stage.alogent.com/app](https://nxt-stage.alogent.com/app)
 
 ### Login Form
 
