@@ -1,10 +1,10 @@
 ## NXT Tether Login Test
 
-Current site target - [https://nxt-stage.alogent.com/app](https://nxt-stage.alogent.com/app)
+Current site target - [https://test-digital.alogent.com/app](https://test-digital.alogent.com/app)
 
 ### Login Form
 
-<form action="https://nxt-stage.alogent.com/app/api/Authentication/TetheredLogin" method="POST">
+<form action="https://test-digital.alogent.com/app/api/Authentication/TetheredLogin" method="POST">
   <label for="username">Username</label>
   <input type="text" name="username" />
   <br/>
